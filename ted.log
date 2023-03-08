@@ -1,0 +1,284 @@
+Feb  9 13:29:47 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ari: (forwardIndication:123) Indication(0x25820000) for client(IndicationReregistrationActor) Type(GCD) size(110) dispq(AriHostIPC:0x15be91e60)
+Feb  9 13:29:47 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ind: Bin=[<private>]
+Feb  9 13:29:47 iPhone-cua-04gly locationd(TrackingAvoidance)[70] <Notice>: <private>
+Feb  9 13:29:47 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: got avenger advertisement", "subHarvester":"Avenger"}
+Feb  9 13:29:47 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"convertToSPAdvertisement", "address":<private>, "data":<private>, "date":<private>, "rssi":<private>, "status":<private>, "reserved":<private>, "subHarvester":"Avenger"}
+Feb  9 13:29:47 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: advertisment is near-owner from other people and do not process it", "subHarvester":"Avenger"}
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 1961>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 1961>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 1961>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 2236>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 1686>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 1686>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 1686>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 498>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 498>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 498>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 498>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 496>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 496>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 499>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 4
+99>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 499>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 309>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 309>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 200000
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 380>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Notice>: necp_client_parse_parameters: NECP_CLIENT_TRACKER_LOG <pid 380>: Parsing tracker flags - known-tracker 10000 non-app-initiated 0 silent 0 approved-app-domain 0
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Error>: netagent_get_agent_domain_and_type: Type requested for invalid netagent
+Feb  9 13:29:47 iPhone-cua-04gly kernel[0] <Error>: netagent_get_agent_domain_and_type: Type requested for invalid netagent
+Feb  9 13:29:47 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: got avenger advertisement", "subHarvester":"Avenger"}
+Feb  9 13:29:47 iPhone-cua-04gly locationd(TrackingAvoidance)[70] <Notice>: <private>
+Feb  9 13:29:47 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"convertToSPAdvertisement", "address":<private>, "data":<private>, "date":<private>, "rssi":<private>, "status":<private>, "reserved":<private>, "subHarvester":"Avenger"}
+Feb  9 13:29:47 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: advertisment is near-owner from other people and do not process it", "subHarvester":"Avenger"}
+Feb  9 13:29:48 iPhone-cua-04gly apsd[118] <Notice>: __dumpLogsForInconsistencyIfNecessary - lastBecameInconsistentTime 0.000000  sBecameInconsistentTime 0.000000  logDumpReason (null)
+Feb  9 13:29:48 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: got avenger advertisement", "subHarvester":"Avenger"}
+Feb  9 13:29:48 iPhone-cua-04gly locationd(TrackingAvoidance)[70] <Notice>: <private>
+Feb  9 13:29:48 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"convertToSPAdvertisement", "address":<private>, "data":<private>, "date":<private>, "rssi":<private>, "status":<private>, "reserved":<private>, "subHarvester":"Avenger"}
+Feb  9 13:29:48 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: advertisment is near-owner from other people and do not process it", "subHarvester":"Avenger"}
+Feb  9 13:29:48 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ari: (forwardIndication:123) Indication(0x25820000) for client(IndicationReregistrationActor) Type(GCD) size(110) dispq(AriHostIPC:0x15be91e60)
+Feb  9 13:29:48 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ind: Bin=[<private>]
+Feb  9 13:29:49 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: got avenger advertisement", "subHarvester":"Avenger"}
+Feb  9 13:29:49 iPhone-cua-04gly locationd(TrackingAvoidance)[70] <Notice>: <private>
+Feb  9 13:29:49 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"convertToSPAdvertisement", "address":<private>, "data":<private>, "date":<private>, "rssi":<private>, "status":<private>, "reserved":<private>, "subHarvester":"Avenger"}
+Feb  9 13:29:49 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: advertisment is near-owner from other people and do not process it", "subHarvester":"Avenger"}
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: req: Bin=[<private>]
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: rs
+p: Bin=[<private>]
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: Attempting to suspend based on triggers: (     "com.apple.duetactivityscheduler.nwstatus.cell" )
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: Evaluating 155 activities based on triggers
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.healthd.sync.cloud.periodic:C48AA9:[
+	{name: FileProtectionPolicy, policyWeight: 0.010, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{classALocked == 0 AND activityFileProtection == <File Protection: ClassB> AND timeUntilDeadline == 23662.73695218563}]}}
+	{name: NetworkQualityPolicy, policyWeight: 8.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.routined.learnedLocationEngine.train:2BE35A:[
+	{name: DeviceActivityPolicy, policyWeight: 20.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{deviceActivity == 1}]}}
+	{name: NetworkQualityPolicy, policyWeight: 8.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.mobilemail.scheduledFetches:A8B7F7:[
+	{name: NetworkQualityPolicy, policyWeight: 8.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.locationd.TileDownloadWifiReachability:2A8634:[
+	{name: NetworkQualityPolicy, policyWeight: 8.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.healthd.sync.cloud.periodic.secondary:0D81D7:[
+	{name: NetworkQualityPolicy, policyWeight: 8.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: bgRefresh-com.microsoft.onedrive.bgRefreshTask:C7BA2F:[
+	{name: ApplicationPolicy, policyWeight: 50.000, response: {Decision: Must Not Proceed, Score: 0.00}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+ ], FinalDecision: Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: bgRefresh-com.twitter.notifications.updateNotificationAuthorizationStatus:17C019:[
+	{name: ApplicationPolicy, policyWeight: 50.000, response: {Decision: Must Not Proceed, Score: 0.00}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+ ], FinalDecision: Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: Timeline for <private>: <private>
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: bgRefresh-com.google.GoogleMobile.backgroundFetch:19C740:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+ ], FinalDecision: Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: bgProcessing-com.shopee.background.processing.fetch-rn-bundle:C9459C:[
+	{name: DeviceActivityPolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{launchType == PROCESSING AND deviceActive == 1}]}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},
+]}}
+ ], FinalDecision: Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.dataaccess.dataaccessd.fetch.2CEEF600-F550-4309-9B51-BF74DBF83436:484B9A:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.dataaccess.dataaccessd.fetch.2DB877B8-F430-4D45-AC40-57466A710909:032C02:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.dataaccess.dataaccessd.fetch.C4D7203D-66AE-400F-8C90-E03004AA54A8:F124FB:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.rtcreportingd:NRM:D58DA0:[
+	{name: DeviceActivityPolicy, policyWeight: 20.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{deviceActivity == 1}]}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.diagnosticpipeline.cloudkit_expedited_upload:CAF1FF:[
+	{name: DeviceActivityPolicy, policyWeight: 20.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{deviceActivity == 1}]}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.mobilemail.powernapFetches:01CBED:[
+	{name: DeviceActivityPolicy, policyWeight: 20.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{deviceActivity == 1}]}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.tipsd.update-content:0460A5:[
+	{name: DeviceActivityPolicy, policyWeight: 20.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{deviceActivity == 1}]}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+ ], FinalDecision: Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly d
+asd[100] <Notice>: com.apple.icloud.searchpartyd.activity.BeaconPayLoadPublish-onPowerOnWiFi:068FAE:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.triald.fetch-experiments:99032E:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.icloud.searchpartyd.ProductInfoManager:939A45:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+ ], FinalDecision: Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.DifferentialPrivacy.DediscoReporter:156454:[
+	{name: DeviceActivityPolicy, policyWeight: 20.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{deviceActivity == 1}]}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+ ], FinalDecision: Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.DifferentialPrivacy.PrioReporter:2167FB:[
+	{name: DeviceActivityPolicy, policyWeight: 20.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{deviceActivity == 1}]}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+ ], FinalDecision: Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.CFNetwork-cc-160-173-Task <522DED40-5ACD-4A62-8C2F-3B98DA7B41AD>.<25>:9B2131:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.CFNetwork-cc-160-176-Task <0B7539EC-96D1-4C89-812F-EB09C1CDC0DA>.<26>:6F8FF7:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.CFNetwork-cc-160-178-Task <601AB0BE-0CBC-452A-BECF-3ED1BEDE8841>.<2>:01CC95:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Must Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly dasd[100] <Notice>: com.apple.CFNetwork-cc-160-185-Task <FD76B79B-7E6C-4A3C-AE95-324FDADCD1BD>.<27>:FBB232:[
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Mus
+t Not Proceed, Score: 0.00, Rationale: [{[memoryPressure]: Required:1.00, Observed:2.00},]}}
+	{name: NetworkQualityPolicy, policyWeight: 11.400, response: {Decision: Absolutely Must Not Proceed, Score: 0.00, Rationale: [{[networkPathAvailability]: Required:1.00, Observed:0.00},]}}
+ ], FinalDecision: Absolutely Must Not Proceed}
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ari: (forwardIndication:123) Indication(0x25820000) for client(IndicationReregistrationActor) Type(GCD) size(110) dispq(AriHostIPC:0x15be91e60)
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ind: Bin=[<private>]
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter[92] <Notice>: #I bars changed! old bars 1, new bars 2
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter[92] <Notice>: #I Computed base bars of 2 from model Mav5LTE
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter[92] <Notice>: Sent notification to 8 (of 39) clients: <private>
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SystemStatusServer)[63] <Notice>: STTelephonyStateProvider: requesting copyMobileCountryCode
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SystemStatusServer)[63] <Notice>: [STTelephonyStateProvider Slot 2]: updated signal strength from 1 to 2 -- manager: <STTelephonyStateProvider: 0x280fe6300> {
+    dualSIMEnabled = YES;
+    slot1SubscriptionInfo = <STMutableTelephonySubscriptionInfo: 0x280fe6d80> {
+        SIMStatus = kCTSIMSupportSIMStatusReady;
+        registrationStatus = registered;
+        cellularRegistrationStatus = registered;
+        dataConnectionType = lteConnection;
+        signalStrengthBars = 2;
+        isPreferredForDataConnections = NO;
+        isProvidingDataConnection = NO;
+        operatorName = Viettel;
+    };
+    slot2SubscriptionInfo = <STMutableTelephonySubscriptionInfo: 0x280ff8380> {
+        SIMStatus = kCTSIMSupportSIMStatusReady;
+        registrationStatus = registered;
+        cellularRegistrationStatus = registered;
+        dataConnectionType = 4GOverrideConnection;
+        signalStrengthBars = 2;
+        isPreferredForDataConnections = YES;
+        isProvidingDataConnection = YES;
+        operatorName = VinaPhone;
+    };
+}
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SystemStatusServer)[63] <Notice>: STTelephonyStateProvider: got last known network country code: vn
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter[92] <Notice>: #I Computed base bars of 2 from model Mav5LTE
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SystemStatusServer)[63] <Notice>: Server data changed for telephony domain: <STTelephonyStatusDomainData: 0x282156800> {
+    SIMOneInfo = <STTelephonyStatusDomainSIMInfo: 0x2804dda40> {
+        SIMPresent = YES;
+        label = \M-b\M^]\M-$\M-o\M-8\M^O;
+        shortLabel = \M-b\M^]\M-$\M-o\M-8\M^O;
+        signalStrengthBars = 2;
+        maxSignalStrengthBars = 4;
+        serviceState = Service;
+        cellularServiceState = Service;
+        serviceDescription = Viettel;
+        secondaryServiceDescription = 0x0;
+        dataNetworkType = LTE;
+        providingDataConnection = NO;
+        preferredForDataConnections = NO;
+        registeredWithoutCellular = NO;
+        callForwardingEnabled = NO;
+    };
+    SIMTwoInfo = <STTelephonyStatusDomainSIMInfo: 0x2804c4300> {
+        SIMPresent = YES;
+        label = \M-b\M^\\M^E;
+        shortLabel = \M-b\M^\\M^E;
+        signalStrengthBars = 2;
+        maxSignalStrengthBars = 4;
+        serviceState = Service;
+        cellularServiceState = Service;
+        serviceDescription = VinaPhone;
+        secondaryServiceDescription = 0x0;
+        dataNetworkType = 4G;
+        providingDataConnection = YES;
+        preferredForDataConnections = YES;
+        registeredWithoutCellular = NO;
+        callForwardingEnabled = NO;
+    };
+    cellularRadioCapabilityEnabled = YES;
+    dualSIMEnabled = YES;
+    radioModuleDead = NO;
+}
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter[92] <Notice>: #I Got Signal bars 2.
+Feb  9 13:29:49 iPhone-cua-04gly CommCenter[92] <Notice>: #I Sending instrument id kAWDInstrumentNetworkCondition, with Instrument serial number 761
+Feb  9 13
+:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: signalStrength is unchanged, still enabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: signalStrength changing from '1' to '2'
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: secondarySignalStrength is unchanged, still enabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: service is unchanged, still enabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: secondaryService is unchanged, still enabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: dataNetwork is unchanged, still enabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: secondaryDataNetwork is unchanged, still disabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: activity is unchanged, still disabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: vpn is unchanged, still disabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: callForwarding is unchanged, still disabled
+Feb  9 13:29:49 iPhone-cua-04gly SpringBoard(SpringBoard)[63] <Notice>: secondaryCallForwarding is unchanged, still disabled
+Feb  9 13:29:49 iPhone-cua-04gly sharingd[67] <Notice>: Updating signal strength 2 bars
+Feb  9 13:29:49 iPhone-cua-04gly sharingd(CoreUtils)[67] <Notice>: Advertiser state: Pref no, Client Count 1, Family Count 3, Supported no, SysMon yes, Max Cnx no, HSA2 yes, ManateeAvailable yes
+Feb  9 13:29:49 iPhone-cua-04gly sharingd(CoreUtils)[67] <Notice>: Tethering advertising stopped
+Feb  9 13:29:49 iPhone-cua-04gly sharingd(CoreUtils)[67] <Notice>: Companion link state: Pref no, Host Count 0, Family Count 3, HSA2 yes, ManateeAvailable yes, SysMon no, Browser yes, Inactive no
+Feb  9 13:29:49 iPhone-cua-04gly sharingd(CoreUtils)[67] <Notice>: Legacy browser state: Pref no, Hosts 0, Clients 0, Total 1, SysMon yes, IDS yes, HS yes, HSA2 yes, ManateeAvailable yes
+Feb  9 13:29:49 iPhone-cua-04gly promotedcontentd[274] <Notice>: Update latest signal strength to 50.
+Feb  9 13:29:49 iPhone-cua-04gly symptomsd(SymptomEvaluator)[112] <Notice>: CT update signal bars: 2
+Feb  9 13:29:50 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: got avenger advertisement", "subHarvester":"Avenger"}
+Feb  9 13:29:50 iPhone-cua-04gly locationd(TrackingAvoidance)[70] <Notice>: <private>
+Feb  9 13:29:50 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"convertToSPAdvertisement", "address":<private>, "data":<private>, "date":<private>, "rssi":<private>, "status":<private>, "reserved":<private>, "subHarvester":"Avenger"}
+Feb  9 13:29:50 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: advertisment is near-owner from other people and do not process it", "subHarvester":"Avenger"}
+Feb  9 13:29:50 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ari: (forwardIndication:123) Indication(0x25820000) for client(IndicationReregistrationActor) Type(GCD) size(110) dispq(AriHostIPC:0x15be91e60)
+Feb  9 13:29:50 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ind: Bin=[<private>]
+Feb  9 13:29:51 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: req: Bin=[<private>]
+Feb  9 13:29:51 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: rsp: Bin=[<private>]
+Feb  9 13:29:51 iPhone-cua-04gly kernel(IO80211Family)[0] <Notice>: postMessageInternal:isPipeOpened:1, msg 174, dataLen 64
+Feb  9 13:29:51 iPhone-cua-04gly kernel(IO80211Family)[0] <Notice>: postMessageInternal:isPipeOpened:1, msg 175, dataLen 140
+Feb  9 13:29:51 iPhone-cua-04gly kernel(IO80211Family)[0] <Notice>: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+Feb  9 13:29:51 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ari: (forwardIndication:123) Indication(0x3d808000) for client(IndicationReregistrationActor) Type(GCD) size(112) dispq(AriHostIPC:0x15be91e60)
+Feb  9 13:29:51 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ind: Bin=[<private>]
+Feb 
+ 9 13:29:51 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ari: (forwardIndication:123) Indication(0x25820000) for client(IndicationReregistrationActor) Type(GCD) size(110) dispq(AriHostIPC:0x15be91e60)
+Feb  9 13:29:51 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ind: Bin=[<private>]
+Feb  9 13:29:51 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ari: (forwardIndication:123) Indication(0x25820000) for client(IndicationReregistrationActor) Type(GCD) size(110) dispq(AriHostIPC:0x15be91e60)
+Feb  9 13:29:51 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ind: Bin=[<private>]
+Feb  9 13:29:52 iPhone-cua-04gly CommCenter[92] <Notice>: #I <private> request: <private>, expects reply.
+Feb  9 13:29:52 iPhone-cua-04gly CommCenter[92] <Notice>: #I <private> reply to request '<private>'.
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: got avenger advertisement", "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly locationd(TrackingAvoidance)[70] <Notice>: <private>
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"convertToSPAdvertisement", "address":<private>, "data":<private>, "date":<private>, "rssi":<private>, "status":<private>, "reserved":<private>, "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: advertisment is near-owner from other people and do not process it", "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: got avenger advertisement", "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly locationd(TrackingAvoidance)[70] <Notice>: <private>
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"convertToSPAdvertisement", "address":<private>, "data":<private>, "date":<private>, "rssi":<private>, "status":<private>, "reserved":<private>, "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: advertisment is near-owner from other people and do not process it", "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: got avenger advertisement", "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly locationd(TrackingAvoidance)[70] <Notice>: <private>
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"convertToSPAdvertisement", "address":<private>, "data":<private>, "date":<private>, "rssi":<private>, "status":<private>, "reserved":<private>, "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly locationd[70] <Notice>: {"msg":"onAvengerAdvertisementDetected: advertisment is near-owner from other people and do not process it", "subHarvester":"Avenger"}
+Feb  9 13:29:52 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ari: (forwardIndication:123) Indication(0x25820000) for client(IndicationReregistrationActor) Type(GCD) size(110) dispq(AriHostIPC:0x15be91e60)
+Feb  9 13:29:52 iPhone-cua-04gly CommCenter(libARI.dylib)[92] <Notice>: ind: Bin=[<private>]
+Feb  9 13:29:52 iPhone-cua-04gly trustd[140] <Notice>: cert[0]: AnchorTrusted =(leaf)[force]> 0
+Feb  9 13:29:52 iPhone-cua-04gly trustd[140] <Notice>: cert[0]: NonEmptySubject =(path)[]> 0
+Feb  9 13:29:52 iPhone-cua-04gly lockdownd[3077] <Notice>: handle_get_value: <private>
+Feb  9 13:29:52 iPhone-cua-04gly trustd[140] <Notice>: cert[0]: AnchorTrusted =(leaf)[force]> 0
+Feb  9 13:29:52 iPhone-cua-04gly trustd[140] <Notice>: cert[0]: NonEmptySubject =(path)[]> 0
+Feb  9 13:29:52 iPhone-cua-04gly lockdownd[3077] <Notice>: handle_start_service_with_socket: <private>
+Feb  9 13:29:52 iPhone-cua-04gly lockdownd[3077] <Notice>: spawn_xpc_service: <private>
+Feb  9 13:29:52 iPhone-cua-04gly kernel(Sandbox)[0] <Notice>: /usr/libexec/mobile_diagnostics_relay[3159] ==> (apply-protobox)
+Feb  9 13:29:52 iPhone-cua-04gly lockdownd[3077] <Notice>: spawn_xpc_service_block_invoke: <private>
+Feb  9 13:29:53 iPhone-cua-04gly securityd[113] <Notice>: tr
