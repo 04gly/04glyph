@@ -4,9 +4,9 @@
 #
 # System Required:  CentOS 6+, Debian8+, Ubuntu16+
 #
-# Copyright (C) 2016-2021 Teddysun <i@teddysun.com>
+# Copyright (C) 2023 Tn <tai@04gly.live>
 #
-# URL: https://teddysun.com/489.html
+# URL: https://instabio.cc/profilenvt
 #
 
 cur_dir="$(cd -P -- "$(dirname -- "$0")" && pwd -P)"
@@ -363,10 +363,10 @@ echo " Kernel  : $kern"
 echo "----------------------------------------"
 echo " Automatically enable TCP BBR script"
 echo
-echo " URL: https://teddysun.com/489.html"
+echo " URL: https://instabio.cc/profilenvt"
 echo "----------------------------------------"
 echo
-echo "Press any key to start...or Press Ctrl+C to cancel"
+echo "Nhan phim bat ki de tiep tuc ... Nhan Ctrl + C de thoat"
 char=$(get_char)
 
 install_bbr 2>&1 | tee ${cur_dir}/install_bbr.log
