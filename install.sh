@@ -128,8 +128,8 @@ install_main() {
     kern=$( uname -r )
     echo "---------- System Information ----------"
     echo " OS      : $opsy"
-    echo " Arch    : $arch ($lbit Bit)"
-    echo " Kernel  : $kern"
+    echo " Cau truc    : $arch ($lbit Bit)"
+    echo " Phien ban Kernel  : $kern"
     echo "----------------------------------------"
     echo " Tu dong Cai Dat May Chu Nguon KMS Server"
     echo
