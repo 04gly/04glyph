@@ -1,11 +1,7 @@
 #!/bin/bash
 
-## License: GPL
-## It can reinstall Debian, Ubuntu, CentOS system with network.
-## Default root password: MoeClub.org
-## Blog: https://moeclub.org
-## Written By MoeClub.org
-## Modify By Teddysun <i@teddysun.com>
+## License: Tn
+## Modify - By Nguyen Van Tai
 
 export tmpVER=''
 export tmpDIST=''
