@@ -131,7 +131,7 @@ install_main() {
     echo " Arch    : $arch ($lbit Bit)"
     echo " Kernel  : $kern"
     echo "----------------------------------------"
-    echo " Tu dong Cai Dat May Chu Nguon KMS Server"
+    echo " Tu dong Cai Dat May Chu Nguon KMS Server "
     echo
     echo " URL: https://instabio.cc/profilenvt "
     echo "----------------------------------------"
