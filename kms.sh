@@ -136,7 +136,7 @@ install_main() {
     echo " URL: https://instabio.cc/profilenvt "
     echo "----------------------------------------"
     echo
-    echo "Press any key to start...or Press Ctrl+C to cancel"
+    echo "Nhan phim bat ki de tiep tuc (hoac) nhan Ctrl+C de thoat"
     char=$(get_char)
 
     if [[ x"${release}" == x"centos" ]]; then
