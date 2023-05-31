@@ -180,8 +180,8 @@ install_main() {
     rm -rf vlmcsd
     echo
     echo "Install KMS Server success"
-    echo "Welcome to visit:https://teddysun.com/530.html"
-    echo "Enjoy it!"
+    echo "By https://instabio.cc/profilenvt"
+    echo "Thank you"
     echo
 }
 
