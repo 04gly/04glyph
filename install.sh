@@ -182,7 +182,7 @@ install_main() {
     echo "Install KMS Server success"
     echo "By https://instabio.cc/profilenvt"
     echo "Thank you"
-    echo Please copy and run this command line "apt install net-tools && netstat -nxtlp | grep 1688"
+    echo Please copy and run this command line: "apt install net-tools && netstat -nxtlp | grep 1688"
     echo
 }
 
