@@ -192,7 +192,7 @@ install_kms() {
 
 # Uninstall KMS Server
 uninstall_kms() {
-    printf "Are you sure uninstall KMS Server? (y/n) "
+    printf "Bạn có muốn gỡ bỏ KMS Server? (y/n) "
     printf "\n"
     read -p "(Default: n):" answer
     [ -z "${answer}" ] && answer="n"
