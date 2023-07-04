@@ -132,7 +132,7 @@ install_main() {
     echo " Phien ban Kernel  : $kern"
     echo "----------------------------------------"
     echo " Tu dong Cai Dat May Chu Nguon KMS Server"
-    echo
+    echo "        Code By Nguyen Van Tai        "
     echo " URL: https://instabio.cc/profilenvt "
     echo "----------------------------------------"
     echo
