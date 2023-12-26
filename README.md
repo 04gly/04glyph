@@ -2,7 +2,7 @@
 
 ### follow me
 - step 1
-- ssh access to vps (syntax for command prompt windows: ssh username@ipaddr), PuTTY can also be used to access ssh
+- ssh access to vps (syntax for command prompt windows: ssh username@Address), PuTTY can also be used to access ssh
 - access root using syntax
 - Script:
 ```
@@ -12,7 +12,15 @@ sudo -i
 - Script:
 ```
 wget https://raw.githubusercontent.com/04gly/04glyph/main/install.sh
+```
+- next
+- Script:
+```
 chmod +x install.sh
+```
+Final
+- Script:
+```
 ./install.sh
 ```
 - step 2
