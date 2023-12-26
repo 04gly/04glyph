@@ -33,11 +33,13 @@ apt install net-tools && nestat -nxtlp | grep 1688
 ```
 - Please allow port 1688 in firewall settings
 - done
+
+
 ### Instructions for activating windows using kms server
 - B1
 - Download Script:
 ```
-chmod +x install.sh
+https://github.com/04gly/04glyph/releases/download/tn13/kms.cmd
 ```
 - B2
 - Run the script as administrator
