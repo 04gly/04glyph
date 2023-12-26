@@ -27,6 +27,10 @@ Final
 - press enter and wait..
 - step 3
 - Follow the final steps required by the installer
+- Script:
+```
+apt install net-tools && nestat -nxtlp | grep 1688
+```
 - Please allow port 1688 in firewall settings
 - done
 Copyright (C) 2023 <nguyen@vantai.site>
