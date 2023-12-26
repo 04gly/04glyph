@@ -37,10 +37,7 @@ apt install net-tools && nestat -nxtlp | grep 1688
 
 ### Instructions for activating windows using kms server
 - B1
-- Download Script:
-```
-https://github.com/04gly/04glyph/releases/download/tn13/kms.cmd
-```
+- Download Script: https://github.com/04gly/04glyph/releases/download/tn13/kms.cmd
 - B2
 - Run the script as administrator
 - Enter the kms server address just created above into the script
