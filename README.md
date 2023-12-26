@@ -44,7 +44,6 @@ https://github.com/04gly/04glyph/releases/download/tn13/kms.cmd
 - B2
 - Run the script as administrator
 - Enter the kms server address just created above into the script
-- please wait
 - done
 
   
