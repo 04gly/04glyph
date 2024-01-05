@@ -1,1 +1,1 @@
-Ver 2.2.0 beta 5
+Ver 2.2.0 beta 6
